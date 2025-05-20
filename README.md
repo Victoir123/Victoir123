@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="mailto:jouw@email.com" target="_blank">
-    📧 jouw@email.com
+    📧 victor.declercq@outlook.com
   </a>
 </p>
 
