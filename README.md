@@ -2,7 +2,11 @@
 <h3 align="center">An AI & Data student always ready for a challenge</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  <a href="mailto:jouw@email.com" target="_blank">
+    📧 jouw@email.com
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
